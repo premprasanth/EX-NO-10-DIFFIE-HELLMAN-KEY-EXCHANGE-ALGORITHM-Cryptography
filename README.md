@@ -1,4 +1,6 @@
 # EX-NO-10-Diffie-Hellman-Key-Exchange-Algorithm
+## NAME: J.PREM PRASANTH
+## RGISTER NUMBER:2305001028
 
 ## AIM:
 To Implement Diffie Hellman Key Exchange Algorithm 
@@ -59,6 +61,8 @@ int main() {
 
 
 ## Output:
+<img width="691" height="573" alt="image" src="https://github.com/user-attachments/assets/a93507ac-c77f-4e58-9b15-703729ef894f" />
+
 
 
 ## Result:
